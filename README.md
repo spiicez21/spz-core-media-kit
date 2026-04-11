@@ -1,70 +1,111 @@
-# SPZ Core Media Kit
+<div align="center">
 
-Welcome to the **SPZ Core Media Kit**. Here you will find official logos, banners, and vector assets for SPZ Race Core. We've compiled these assets to help you showcase our brand easily and consistently. 
+<img src="https://github.com/SPiceZ21/spz-core-media-kit/raw/main/Banner/Banner%232.png" alt="SPiceZ-Core Banner" width="100%"/>
 
-## 🎨 Brand Guidelines
+<br/>
 
-Before downloading and using the assets, please follow these simple rules to keep the brand identity intact:
-- **Do not stretch or distort** the logos. Always scale them proportionally.
-- **Maintain clear space** around the logo (at least the height of the SPZ icon) to ensure it stands out.
-- Use **transparent variants** for non-white/dark backgrounds to maintain contrast.
+# spz-core-media-kit
 
----
+### Official Brand Assets & Guidelines
 
-## 🎨 Brand Colors
+*Logos, banners, and color palette for the SPiceZ-Core brand. Use these assets consistently across all SPiceZ materials.*
 
-Our core identity relies on a distinct and vibrant color palette. Use these colors for all SPZ Race Core materials, applying the primary orange for accents, buttons, and high-visibility elements.
+<br/>
 
-| Color | Name | Hex Code | Output |
-| :---: | :--- | :---: | :---: |
-| 1 | **Main Orange** | `#FF6200` | ![](https://placehold.co/100x30/FF6200/FF6200.png) |
-| 2 | **Secondary Orange** | `#FF9F63` | ![](https://placehold.co/100x30/FF9F63/FF9F63.png) |
-| 3 | **Black** | `#000000` | ![](https://placehold.co/100x30/000000/000000.png) |
-| 4 | **White** | `#FFFFFF` | ![](https://placehold.co/100x30/FFFFFF/FFFFFF.png) |
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-orange.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
+
+</div>
 
 ---
 
-## 🖼 Logos (Raster & Vector)
+## Brand Guidelines
 
-These are our primary logos in varying formats. You can view the PNG raster previews below or download the corresponding scalable vector (SVG) format for high-resolution print or web design use.
+Before using any asset, follow these rules to maintain brand consistency:
+
+- **Never stretch or distort** logos. Scale them proportionally only.
+- **Maintain clear space** around the logo — at minimum the height of the SPZ icon on all sides.
+- **Use transparent variants** on non-white or dark backgrounds to ensure proper contrast.
+- **Do not recolor** logos or banners outside of approved palette swaps.
+
+---
+
+## Brand Colors
+
+| # | Name | Hex | Swatch |
+|---|---|---|---|
+| 1 | Main Orange | `#FF6200` | ![](https://placehold.co/100x30/FF6200/FF6200.png) |
+| 2 | Secondary Orange | `#FF9F63` | ![](https://placehold.co/100x30/FF9F63/FF9F63.png) |
+| 3 | Black | `#000000` | ![](https://placehold.co/100x30/000000/000000.png) |
+| 4 | White | `#FFFFFF` | ![](https://placehold.co/100x30/FFFFFF/FFFFFF.png) |
+
+Use **Main Orange** (`#FF6200`) for accents, call-to-action buttons, and high-visibility elements. Secondary Orange is for highlights and softer UI elements. All primary surfaces should use Black or White.
+
+---
+
+## Logos
+
+Available in both PNG (raster) and SVG (vector) formats.
 
 ### Long Format
 
-| File Details | PNG Preview | SVG Download |
-| :--- | :---: | :---: |
-| **Long SPZ #1** | ![Long #1](./Logo/long_spz_%231.png) | [📥 SVG](./Logo-Svg/long_spz_%231.svg) |
-| **Long SPZ #2** | ![Long #2](./Logo/long_spz_%232.png) | [📥 SVG](./Logo-Svg/long_spz_%232.svg) |
-| **Long SPZ #3** | ![Long #3](./Logo/long_spz_%233.png) | [📥 SVG](./Logo-Svg/long_spz_%233.svg) |
-| **Long Transparent** | ![Long Trans](./Logo/long_spz_transparent.png) | [📥 SVG](./Logo-Svg/long_spz_transparent.svg) |
-| **Long Trans White** | ![Long Trans White](./Logo/long_spz_transparent_white.png) | [📥 SVG](./Logo-Svg/long_spz_transparent_white.svg) |
+| Asset | PNG Preview | SVG |
+|---|---|---|
+| Long SPZ #1 | ![Long #1](./Logo/long_spz_%231.png) | [Download SVG](./Logo-Svg/long_spz_%231.svg) |
+| Long SPZ #2 | ![Long #2](./Logo/long_spz_%232.png) | [Download SVG](./Logo-Svg/long_spz_%232.svg) |
+| Long SPZ #3 | ![Long #3](./Logo/long_spz_%233.png) | [Download SVG](./Logo-Svg/long_spz_%233.svg) |
+| Long Transparent | ![Long Trans](./Logo/long_spz_transparent.png) | [Download SVG](./Logo-Svg/long_spz_transparent.svg) |
+| Long Trans White | ![Long Trans White](./Logo/long_spz_transparent_white.png) | [Download SVG](./Logo-Svg/long_spz_transparent_white.svg) |
 
 ### Short Format
 
-| File Details | PNG Preview | SVG Download |
-| :--- | :---: | :---: |
-| **Short SPZ #1** | ![Short #1](./Logo/short_spz_%231.png) | [📥 SVG](./Logo-Svg/short_spz_%231.svg) |
-| **Short SPZ #2** | ![Short #2](./Logo/short_spz_%232.png) | [📥 SVG](./Logo-Svg/short_spz_%232.svg) |
-| **Short SPZ #2-1**| ![Short #2-1](./Logo/short_spz_%232-1.png) | [📥 SVG](./Logo-Svg/short_spz_%232-1.svg) |
-| **Short Transparent**| ![Short Trans](./Logo/short_spz_transparent.png) | [📥 SVG](./Logo-Svg/short_spz_transparent.svg) |
-| **Short Trans White**| ![Short Trans White](./Logo/short_spz_transparent_white.png) | [📥 SVG](./Logo-Svg/short_spz_transparent_white.svg) |
+| Asset | PNG Preview | SVG |
+|---|---|---|
+| Short SPZ #1 | ![Short #1](./Logo/short_spz_%231.png) | [Download SVG](./Logo-Svg/short_spz_%231.svg) |
+| Short SPZ #2 | ![Short #2](./Logo/short_spz_%232.png) | [Download SVG](./Logo-Svg/short_spz_%232.svg) |
+| Short SPZ #2-1 | ![Short #2-1](./Logo/short_spz_%232-1.png) | [Download SVG](./Logo-Svg/short_spz_%232-1.svg) |
+| Short Transparent | ![Short Trans](./Logo/short_spz_transparent.png) | [Download SVG](./Logo-Svg/short_spz_transparent.svg) |
+| Short Trans White | ![Short Trans White](./Logo/short_spz_transparent_white.png) | [Download SVG](./Logo-Svg/short_spz_transparent_white.svg) |
 
 ---
 
-## 🏁 Banners
+## Banners
 
 Use these banners for social media headers, event promotions, newsletters, or website heroes.
 
-| Banner Name | Preview | Description / Use Case |
-| :--- | :---: | :--- |
-| **Banner #1** | ![Banner #1](./Banner/Banner%231.png) | Primary event and general promo banner. |
-| **Banner #2** | ![Banner #2](./Banner/Banner%232.png) | Secondary event promotion. |
-| **Banner #3** | ![Banner #3](./Banner/Banner%233.png) | Suitable for dark theme placements. |
-| **Banner #4** | ![Banner #4](./Banner/Banner%234.png) | Content hero image layout. |
-| **Banner #5** | ![Banner #5](./Banner/Banner%235.png) | Social media landscape coverage. |
-| **Banner #6** | ![Banner #6](./Banner/Banner%236.png) | Newsletter and blog header placement. |
+| Banner | Preview | Recommended Use |
+|---|---|---|
+| Banner #1 | ![Banner #1](./Banner/Banner%231.png) | Primary event and general promotion |
+| Banner #2 | ![Banner #2](./Banner/Banner%232.png) | Secondary event promotion, README headers |
+| Banner #3 | ![Banner #3](./Banner/Banner%233.png) | Dark theme placements |
+| Banner #4 | ![Banner #4](./Banner/Banner%234.png) | Hero image layout, content pages |
+| Banner #5 | ![Banner #5](./Banner/Banner%235.png) | Social media landscape (Twitter/X cover) |
+| Banner #6 | ![Banner #6](./Banner/Banner%236.png) | Newsletter and blog headers |
+
+> Banner #2 is the standard header used across all `spz-*` module READMEs.
 
 ---
 
-## 📬 Contact & Support
+## File Formats
 
-For PR inquiries, interviews, or specific media asset requests not found here, please reach out to the SPZ Race Core media alignment team.
+| Format | Best For |
+|---|---|
+| `.png` | Web use, READMEs, social media |
+| `.svg` | Print, high-DPI displays, scalable UI |
+| `_transparent` variants | Overlaying on colored or dark backgrounds |
+| `_white` variants | Dark backgrounds where the standard version lacks contrast |
+
+---
+
+## Contact
+
+For press inquiries, interviews, or specific asset requests not available here, reach out through the [SPiceZ-Core Discord](https://discord.gg/).
+
+---
+
+<div align="center">
+
+*Part of the [SPiceZ-Core](https://github.com/SPiceZ-Core) ecosystem*
+
+**[Discord](https://discord.gg/) · [GitHub Org](https://github.com/SPiceZ-Core)**
+
+</div>
